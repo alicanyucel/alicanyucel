@@ -1,7 +1,2 @@
-### 🛠 &nbsp;Tech Stack
-
-![NetCoreWebApi](https://img.shields.io/badge/-NetCoreWebApi-purple?style=flat&logo=c%20sharp)&nbsp;
-![Mssql](https://img.shields.io/badge/-Mssql-purple?style=flat&logo=c%20sharp)&nbsp;
-![C#](https://img.shields.io/badge/-C#%20Language-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-
-	
+# About Me
+Hi. I'm Ali Can Yücel. I graduated from Selcuk University Computer Engineering Department. This is my git profile page. You can review the codes of my applications written in different languages. Life is code.
