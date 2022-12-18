@@ -1,4 +1,15 @@
-[![GitHub Ali Can Yücel](https://img.shields.io/github/followers/alopes2?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white)](https://github.com/alicanyucel)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-can-y%C3%BCcel-062b6517a/)&nbsp;
+### Hi there , my name is Ali Can Yücel 👋
+#### I am a student interested in software.
+I am a Computer Engineer, I am interested in Back-end and Front-end . I like to write code .
 
-- 🔭 I'm a full-stack engineer.
+Skills: C# / HTML / CSS
+
+- 🔭 I’m currently working on C# . 
+- 📫 How to reach me: yucelalican@hotmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/atillakalay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/atilla-kalay-0a6274163/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alicanyucel&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alicanyucel)  
