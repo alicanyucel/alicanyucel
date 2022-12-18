@@ -7,7 +7,7 @@ Skills: C# / HTML / CSS/Bootstrap/Javascript/Typescript/Angular/Mssql
 - 📫 How to reach me: yucelalican@hotmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/atillakalay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/atilla-kalay-0a6274163/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alicanyucel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-can-y%C3%BCcel-062b6517a/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alicanyucel&show_icons=true)  
 
