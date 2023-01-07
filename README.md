@@ -12,4 +12,4 @@ Skills: C# / HTML / CSS/ Bootstrap/ Javascript/ Typescript/ Angular/ Mssql / .Ne
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alicanyucel&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alicanyucel)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?alicanyucel=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=alicanyucel=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
