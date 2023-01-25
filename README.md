@@ -32,4 +32,4 @@ me = SoftwareDeveloper()
 me.say_hi()
 ```
 
-![](https://komarev.com/ghpvc/?username=alicanyucel&color=black)
+![](https://komarev.com/ghpvc/?username=alicanyucel&color=green)
