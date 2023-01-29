@@ -1,5 +1,5 @@
 ### Hi there , my name is Ali Can Yücel 👋
-I am a Computer Engineer, I am interested in Back-end and Front-end . I like to write code .
+I am a Computer Engineer (Selcuk University Computer Engineering), I am interested in Back-end and Front-end . I like to write code .
 
 Skills: C# / HTML / CSS/ Bootstrap/ Javascript/ Typescript/ Angular/ Mssql / .Net Core Mvc / .Net Core Web Api
 
