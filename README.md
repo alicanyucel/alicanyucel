@@ -5,7 +5,8 @@ Skills: C# / HTML / CSS/ Bootstrap/ Javascript/ Typescript/ Angular/ Mssql / .Ne
 
 - 🔭 I’m currently working on C# . 
 - 📫 How to reach me: yucelalican@hotmail.com 
-
+- Contact us to get a project offer.
+Phone 0541 692 3675
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alicanyucel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-can-y%C3%BCcel-062b6517a/)  
 
