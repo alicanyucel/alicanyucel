@@ -1,4 +1,5 @@
-### Hi there , my name is Ali Can Yücel 👋
+### Hi there , my name is Ali Can Yücel 
+Sokak Çapkını Değilim, Yüksek Mühendisim,Kaliteli bir mühitin insanıyım.
 I am a Msc. Software Engineer (Selcuk University Bd.Computer Engineering,Ahmet Yesevi U- Msc. Software Engineering), I am interested in Back-end and Front-end . I like to write code .
 
 Skills: Flutter / C# / HTML / CSS/ Bootstrap/ Javascript/ Typescript/Flutter/Ionic/Angular 16.0 ve 17.0/ Mssql,Mysql,PostgreSql,ElasticSearch,Firebase,Sqllite,MongoDb/.Net Core Mvc-Web Api 8.0
