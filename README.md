@@ -1,6 +1,4 @@
 ### Hi there , my name is Ali Can Yücel 
-Sokak Çapkını Değilim, Yüksek Mühendisim,Kaliteli bir mühitin insanıyım.
-I am not a street rascal, I am a graduate engineer, I am a person of a quality environment.
 
 I am a Msc. Software Engineer (Selcuk University Bd.Computer Engineering,Ahmet Yesevi U- Msc. Software Engineering), I am interested in Back-end and Front-end . I like to write code .
 
