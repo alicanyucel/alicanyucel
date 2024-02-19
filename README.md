@@ -2,7 +2,7 @@
 
 I am a Msc. Software Engineer (Selcuk University Bd.Computer Engineering,Ahmet Yesevi U- Msc. Software Engineering), I am interested in Back-end and Front-end . I like to write code .
 
-Skills: C# / HTML / CSS/ Bootstrap/ Javascript/ Typescript/Flutter/Ionic/Angular 16.0 ve 17.0/ Mssql,Mysql,PostgreSql,ElasticSearch,Firebase,Sqllite,MongoDb/.Net Core Mvc-Web Api 9.0
+Skills: C# / HTML / CSS/ Bootstrap/ Javascript/ Typescript/Flutter/Ionic/Angular 16.0 ve 17.0/ Mssql,Mysql,PostgreSql,ElasticSearch,Firebase,Sqllite,MongoDb/.Net Core Mvc-Web Api net 5.0.....9.0
 
 - 🔭 I’m currently working on C# . 
 - 📫 How to reach me: yucelalican@hotmail.com 
