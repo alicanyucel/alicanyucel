@@ -5,7 +5,7 @@ I am a Msc. Software Engineer (Selcuk University Bd.Computer Engineering,Ahmet Y
 Skills: C# / HTML / CSS/ Bootstrap/ Javascript/ Typescript/Flutter/Ionic/Angular 16.0 ve 17.0/ Mssql,Mysql,PostgreSql,ElasticSearch,Firebase,Sqllite,MongoDb/.Net Core Mvc-Web Api 5.0,6.0,7.0,8.0,9.0
 
 - 🔭 I’m currently working on C# . 
-- 📫 How to reach me: yucelalican@hotmail.com 
+- 📫 How to reach me: yucelalican30@gmail.com 
 - Contact us to get a project offer.
 Phone 0541 692 3675
 
