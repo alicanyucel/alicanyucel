@@ -35,6 +35,3 @@ class SoftwareDeveloper:
 me = SoftwareDeveloper()
 me.say_hi()
 ```
-
-![](https://komarev.com/ghpvc/?username=alicanyucel&color=green)
-https://teams.microsoft.com/v2/?meetingjoin=true#/l/meetup-join/19:meeting_ZTU3Mjc2YWUtYWIwMi00Mjc2LWE1ZTctODJiZDI3NDgwOTM1@thread.v2/0?context=%7b%22Tid%22%3a%228501783f-86dc-41f0-85fc-967f463a4d4d%22%2c%22Oid%22%3a%22b5ce452d-b650-4faa-9261-563f1287b010%22%7d&anon=true&deeplinkId=97af4297-17c2-4efa-909d-f2ced78ecb32
