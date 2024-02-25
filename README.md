@@ -34,4 +34,4 @@ class SoftwareDeveloper:
 
 me = SoftwareDeveloper()
 me.say_hi()
-![](https://komarev.com/ghpvc/?username=alicanyucel&color=green)
+(https://komarev.com/ghpvc/?username=alicanyucel&color=green)
