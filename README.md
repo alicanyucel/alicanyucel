@@ -1,4 +1,4 @@
-### Hi there , my name is Ali Can Yücel 
+### Hi there , my name is Ali Can Yücel Alpata Bilişim Full Stack Developer
 
 I am a Msc. Software Engineer (Selcuk University Bd.Computer Engineering,Ahmet Yesevi U- Msc. Software Engineering), I am interested in Back-end and Front-end . I like to write code .
 
