@@ -34,17 +34,3 @@ class SoftwareDeveloper:
 
 me = SoftwareDeveloper()
 me.say_hi()
-Rüzgarla gelen bir bahar gibi gözlerin
-Öptüm geceden
-Her zaman güzeldi düşlerim
-Niyetim sensin gel
-Fesleğen kokulu yaerimsin
-Çarem sensin gel
-Alnıma yazılı tazemsin.
-Sevmediğim yalanı sevemem ben
-Aldatmam seni el gibi
-Anladığım aşkı gözlerinden
-Oldum bende sen gibi
-aşkıma saygı bekliyorum senden
-Bir acı türkü dinliyorum yelden
-Mevsimi geçtim geçmiyorum senden
