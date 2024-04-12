@@ -1,6 +1,6 @@
 ### Hi there , my name is Ali Can Yücel
 
-I am a Msc. Software Engineer (Selcuk University Bd.Computer Engineering,Ahmet Yesevi U- Msc. Software Engineering), I am interested in Back-end and Front-end . I like to write code .
+I am a  Software Engineer (Selcuk University Bd.Computer Engineering), I am interested in Back-end and Front-end . I like to write code .
 
 Skills: C# / HTML / CSS/ Bootstrap/ Javascript/ Typescript/Flutter/Ionic/Angular 15.0 16.0 ve 17.0/(Bootstrap,Angular Material,PrimeNg)/ Mssql,Mysql,PostgreSql,ElasticSearch,Firebase,Sqllite,MongoDb/.Net Core Mvc-Web Api 3.1,5.0,6.0,7.0,8.0,9.0
 
