@@ -2,7 +2,7 @@
 
 I am a  Software Engineer (Selcuk University Bd.Computer Engineering), I am interested in Back-end and Front-end . I like to write code .
 
-Skills: C# / HTML / CSS/ Bootstrap/ Javascript/ Typescript/Flutter/Ionic/Angular 15 16,17,18/(Bootstrap,Angular Material,PrimeNg)/ Mssql,Mysql,PostgreSql,ElasticSearch,Firebase,Sqllite,MongoDb/.Net Core Mvc-Web Api 3.1,5.0,6.0,7.0,8.0,9.0
+Skills: C# / HTML / CSS/ Bootstrap/ Javascript/ Typescript/Flutter/Ionic/Angular 15 16,17,18(Bootstrap,Angular Material,PrimeNg)/ Mssql,Mysql,PostgreSql,ElasticSearch,Firebase,Sqllite,MongoDb/.Net Core Mvc-Web Api 3.1,5.0,6.0,7.0,8.0,9.0
 
 - 🔭 I’m currently working on C# . 
 - 📫 How to reach me: yucelalican30@gmail.com 
