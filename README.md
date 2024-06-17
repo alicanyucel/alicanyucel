@@ -10,11 +10,11 @@ Merhaba! Ben Ali Can Yücel. Full Stack Developer olarak çeşitli projelerde de
 - **Veritabanı:** MSSQL, MySQL, PostgreSQL
 
 ## Projelerim
-### [Proje Adı 1](https://github.com/alicanyucel/proje1)
-Kısa açıklama: Bu proje şunu yapar...
+### [EAppointmentWebApi](https://github.com/alicanyucel/EAppointment)
+Orta seviye Full-Stack bir projenin backend kısmıdır..Net Core 8.0 Web Api,Clean Archiecture,AutoMapper,Fluent Validation,Cqrs,Mediator,Generic Repository,UnitOfWork,Jwt,Identity Api,Ef Core,Code First,Authentication,Authrization,MiddleWare,Exception Handler,Ardfalis Smart,Enum,Solid,Oop,Clean Code,Scrutor,Ts Result,Ts Repository teknolojileri kullanıldı.
 
-### [Proje Adı 2](https://github.com/alicanyucel/proje2)
-Kısa açıklama: Bu proje şu amaçla geliştirilmiştir...
+### [EAppointmentAngular17](https://github.com/alicanyucel/EAppoitmentAngular)
+Angular 17,Jwt Decode,Dev Extreme,Form Validate,SwetLAlert kullanıldı.
 
 ### [Diğer Projeler](https://github.com/alicanyucel?tab=repositories)
 
