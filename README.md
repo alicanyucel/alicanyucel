@@ -20,6 +20,6 @@ Kısa açıklama: Bu proje şu amaçla geliştirilmiştir...
 
 ## İletişim
 - **E-posta:** yucelalican30@gmail.com
-- **LinkedIn:** [profil-link](https://www.linkedin.com/in/alicanyucel)
+- **LinkedIn:** [profil-link](https://www.linkedin.com/in/ali-can-y%C3%BCcel-062b6517a/)
 
 Her türlü geri bildirim ve işbirliği için bana ulaşabilirsiniz!
