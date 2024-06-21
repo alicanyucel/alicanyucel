@@ -15,7 +15,7 @@ Merhaba! Ben Ali Can Yücel. Full Stack Developer olarak çeşitli projelerde de
 ### [Simsoft Ise Giriş Projesi](https://github.com/alicanyucel/SimsoftIseGirisProjesi)
 ### [Alpata Teknoloji işe Giriş Backend](https://github.com/alicanyucel/AlpataBackEnd)
 ### [Alpata Teknoloji işe Giriş FrontEnd](https://github.com/alicanyucel/AlpataBilisimAngular)
-### [Senior YaZILIM Uzmanı İşe Giriş Projesi](https://github.com/alicanyucel/SeniorProje)
+### [Senior Yazılım Uzmanı İşe Giriş Projesi](https://github.com/alicanyucel/SeniorProje)
 ### [EMuhasebe BackEnd](https://github.com/alicanyucel/eMuhasebeServer)
 ### [EMuhasebe Angular](https://github.com/alicanyucel/EMuhasebeAngular17)
 ### [ERP Angular](https://github.com/alicanyucel/ErpAngular)
