@@ -15,6 +15,7 @@ Orta seviye Full-Stack bir projenin backend kısmıdır..Net Core 8.0 Web Api,Cl
 
 ### [EAppointmentAngular17](https://github.com/alicanyucel/EAppoitmentAngular)
 Angular 17,Jwt Decode,Dev Extreme,Form Validate,SwetLAlert kullanıldı.
+### [Simsoft Ise Giriş Projesi](https://github.com/alicanyucel/SimsoftIseGirisProjesi)
 
 ### [Diğer Projeler](https://github.com/alicanyucel?tab=repositories)
 
