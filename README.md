@@ -27,6 +27,7 @@ Merhaba! Ben Ali Can Yücel. Full Stack Developer olarak çeşitli projelerde de
 ### [Newsletter BackEnd](https://github.com/alicanyucel/NewsletterWebApi)
 ### [Newsletter Angular](https://github.com/alicanyucel/NewsletterAngularOnYuzAliCanYucel)
 ### [Diğer Projeler](https://github.com/alicanyucel?tab=repositories)
+### [Yazılım Mulakat Soru Ve Cevapları](https://github.com/alicanyucel/Yazilim_Mulakat_Sorulari)
 
 ## İletişim
 - **E-posta:** yucelalican30@gmail.com
