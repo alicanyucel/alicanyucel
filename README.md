@@ -26,9 +26,8 @@ Merhaba! Ben Ali Can Yücel. Full Stack Developer olarak çeşitli projelerde de
 ### [ChatApp BackEnd](https://github.com/alicanyucel/ChatApiNet9)
 ### [Newsletter BackEnd](https://github.com/alicanyucel/NewsletterWebApi)
 ### [Newsletter Angular](https://github.com/alicanyucel/NewsletterAngularOnYuzAliCanYucel)
-### [Diğer Projeler](https://github.com/alicanyucel?tab=repositories)
 ### [Yazılım Mulakat Soru Ve Cevapları](https://github.com/alicanyucel/Yazilim_Mulakat_Sorulari)
-
+### [Diğer Projeler](https://github.com/alicanyucel?tab=repositories)
 ## İletişim
 - **E-posta:** yucelalican30@gmail.com
 - **LinkedIn:** [profil-link](https://www.linkedin.com/in/ali-can-y%C3%BCcel-062b6517a/)
