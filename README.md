@@ -11,15 +11,21 @@ Merhaba! Ben Ali Can Yücel. Full Stack Developer olarak çeşitli projelerde de
 
 ## Projelerim
 ### [EAppointmentWebApi](https://github.com/alicanyucel/EAppointment)
-Orta seviye Full-Stack bir projenin backend kısmıdır..Net Core 8.0 Web Api,Clean Archiecture,AutoMapper,Fluent Validation,Cqrs,Mediator,Generic Repository,UnitOfWork,Jwt,Identity Api,Ef Core,Code First,Authentication,Authrization,MiddleWare,Exception Handler,Ardfalis Smart,Enum,Solid,Oop,Clean Code,Scrutor,Ts Result,Ts Repository teknolojileri kullanıldı.
-
 ### [EAppointmentAngular17](https://github.com/alicanyucel/EAppoitmentAngular)
-Angular 17,Jwt Decode,Dev Extreme,Form Validate,SwetLAlert kullanıldı.
 ### [Simsoft Ise Giriş Projesi](https://github.com/alicanyucel/SimsoftIseGirisProjesi)
 ### [Alpata Teknoloji işe Giriş Backend](https://github.com/alicanyucel/AlpataBackEnd)
 ### [Alpata Teknoloji işe Giriş FrontEnd](https://github.com/alicanyucel/AlpataBilisimAngular)
 ### [Senior YaZILIM Uzmanı İşe Giriş Projesi](https://github.com/alicanyucel/SeniorProje)
-
+### [EMuhasebe BackEnd] (https://github.com/alicanyucel/eMuhasebeServer)
+### [EMuhasebe Angular] (https://github.com/alicanyucel/EMuhasebeAngular17)
+### [ERP Angular] (https://github.com/alicanyucel/ErpAngular)
+### [ERP Backend] (https://github.com/alicanyucel/ErpServer)
+### [EPersonel Angular] (https://github.com/alicanyucel/EPersonelAngular17)
+### [EPersonel BackEnd] (https://github.com/alicanyucel/EPersenelBackend)
+### [ChatApp Angular] (https://github.com/alicanyucel/ChatAppAngular17)
+### [ChatApp BackEnd] (https://github.com/alicanyucel/ChatApiNet9)
+### [Newsletter BackEnd] (https://github.com/alicanyucel/NewsletterWebApi)
+### [Newsletter Angular] (https://github.com/alicanyucel/NewsletterAngularOnYuzAliCanYucel)
 ### [Diğer Projeler](https://github.com/alicanyucel?tab=repositories)
 
 ## İletişim
