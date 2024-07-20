@@ -33,5 +33,6 @@ Merhaba! Ben Ali Can Yücel. Full Stack Developer olarak çeşitli projelerde de
 ## İletişim
 - **E-posta:** yucelalican30@gmail.com
 - **LinkedIn:** [profil-link](https://www.linkedin.com/in/ali-can-y%C3%BCcel-062b6517a/)
+- <img src="https://github-readme-stats.vercel.app/api?username=alicanyucel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 Her türlü geri bildirim ve işbirliği için bana ulaşabilirsiniz!
