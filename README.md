@@ -33,6 +33,7 @@ Merhaba! Ben Ali Can Yücel. Full Stack Developer olarak çeşitli projelerde de
 ### [Microservice E-Ticaret Web Api](https://github.com/alicanyucel/MikroServiceECommerce)
 ### [Angular 18 E-Ticaret](https://github.com/alicanyucel/MikroServiceAngular18)
 ### [Yazılım Mulakat Soru Ve Cevapları](https://github.com/alicanyucel/Yazilim_Mulakat_Sorulari)
+### [Amazon Web Service With .Net Api](https://github.com/alicanyucel/AWS)
 ### [Diğer Projeler](https://github.com/alicanyucel?tab=repositories)
 ## İletişim
 - **E-posta:** yucelalican30@gmail.com
