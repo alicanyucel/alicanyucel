@@ -11,9 +11,11 @@ Merhaba! Ben Ali Can Yücel.Selçuk Üniveristesi Bilgisayar Mühendisliği Böl
 - 0541 692 36 75
 
 ## Projelerim
+
+### [Tabim İşe Giris Projesi](https://github.com/alicanyucel/TabimBackendCaseNet9)
 ### [YurtBay Seramik Case](https://github.com/alicanyucel/YurtBaySeramikIseGiris)
 ### [Siberson Senior Case](https://github.com/alicanyucel/VeriketApplicationTest)
-### [WepAPiEğitimim](https://github.com/alicanyucel/WepApiCourseBtk)
+### [Wep APi Eğitimim](https://github.com/alicanyucel/WepApiCourseBtk)
 ### [EAppointmentWebApi](https://github.com/alicanyucel/EAppointment)
 ### [EAppointmentAngular17](https://github.com/alicanyucel/EAppoitmentAngular)
 ### [Simsoft Ise Giriş Projesi](https://github.com/alicanyucel/SimsoftIseGirisProjesi)
