@@ -11,6 +11,10 @@ Merhaba! Ben Ali Can Yücel.Selçuk Üniveristesi Bilgisayar Mühendisliği Böl
 - 0541 692 36 75
 
 ## Projelerim
+### [Liberyus Angular Blog App](https://github.com/alicanyucel/BlogApi)
+### [Liberyus Backend Web Api](https://github.com/alicanyucel/LiberyusBackend)
+### [Newsletter App Angular](https://github.com/alicanyucel/NewsApp)
+### [Newsletter Update Powered Net9 Web Api](https://github.com/alicanyucel/NewsApi)
 ### [Yazılım Eğitmenliği İşe Giriş Sunum Projem](https://github.com/alicanyucel/YazilimEgitmeniIseGirisProjem)
 ### [MdSoft İşe Giris Projesi](https://github.com/alicanyucel/MdSoftBackEndCase)
 ### [Tabim İşe Giris Projesi](https://github.com/alicanyucel/TabimBackendCaseNet9)
