@@ -1,5 +1,4 @@
-# Ali Can Yücel - Full Stack Web Developer - Mobil Developer,Desktop Developer All In One Developer
-
+# Ali Can Yücel - Full Stack Web Developer
 ## Hakkımda
 Merhaba! Ben Ali Can Yücel.Selçuk Üniveristesi Bilgisayar Mühendisliği Bölümünden Mavi Diploma İle Mezunum(Gano 3:00/4) Full Stack Developer olarak çeşitli projelerde deneyim kazandım ve birçok teknolojiye hakimim. Kod yazmayı, yeni şeyler öğrenmeyi ve projelerimi paylaşmayı seviyorum.
 
