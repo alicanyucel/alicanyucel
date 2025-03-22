@@ -3,7 +3,7 @@
 Merhaba! Ben Ali Can Yücel.Selçuk Üniveristesi Bilgisayar Mühendisliği Bölümünden Mavi Diploma İle Mezunum(Gano 3:00/4) Full Stack Developer olarak çeşitli projelerde deneyim kazandım ve birçok teknolojiye hakimim. Kod yazmayı, yeni şeyler öğrenmeyi ve projelerimi paylaşmayı seviyorum.
 
 ## Yetkinliklerim
-- **Front-end:** HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular(Angular Material,Bootstrap,Prime Ng Kullandıgım Sürümler 15.0,16.0,17.0,18.0,19.0)
+- **Front-end:** HTML, CSS, Bootstrap, JavaScript,Jquery,Ajax,TypeScript, Angular(Angular Material,Bootstrap,Prime Ng Kullandıgım Sürümler 15.0,16.0,17.0,18.0,19.0)
 - **Back-end:** C#(12.0,13.0) .NET Core MVC/Web API (3.1,5.0,6.0,7.0,8.0,9.0)
 - **Mobil:** Flutter, Ionic
 - **Veritabanı:** MSSQL, MySQL, PostgreSQL,FireBase,Sqllite,MongoDb,Elastic Search,Access,MariaDb,LiteDb,Redis)
