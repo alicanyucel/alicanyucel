@@ -5,7 +5,68 @@ Kurumsal seviyede ölçeklenebilir, test edilebilir ve event-driven bir mimari �
 
 ---
 
+## 📌 Amaç
+
+- Event-driven mimariyi kurumsal projelere entegre etmek  
+- CQRS ile command/query ayrımı  
+- Docker ile izole geliştirme ortamı  
+- TDD ile güvenli refactoring  
+- Kubernetes ile ölçeklenebilir dağıtım
+
+---
+
+## 🧪 TDD (Test-Driven Development)
+
+Koddan önce test yazma yaklaşımıdır.  
+**Süreç:**  
+1. Test yazılır → fail olur  
+2. Kod yazılır → test geçer  
+3. Refactor edilir → test geçmeye devam eder
+
+**Araçlar:** xUnit, Moq, TestContainers  
+**Avantaj:** CI/CD pipeline’da güvenli deploy, yüksek test coverage
+
+---
+
+## 🧩 DDD (Domain-Driven Design)
+
+Karmaşık iş problemlerini yazılım mimarisine doğru şekilde yansıtma yaklaşımıdır.  
+**Kavramlar:** Entity, Value Object, Aggregate, Repository, Domain Service  
+**Bounded Context:** Sipariş yönetimi ayrı modül olarak modellenir
+
+---
+
+## 📡 EDA (Event-Driven Architecture)
+
+Sistem bileşenleri olaylar üzerinden haberleşir.  
+**Örnek:** `OrderCreatedEvent` → NotificationService bu eventi dinler  
+**Teknolojiler:** RabbitMQ, Kafka, Azure Event Grid  
+**Avantaj:** Asenkron, gevşek bağlı, yüksek ölçeklenebilirlik
+
+---
+
+## 🐳 Docker
+
+Uygulamaları izole konteynerlerde çalıştırır.  
+**Avantaj:** Her ortamda aynı şekilde çalışır (dev → test → prod)  
+**Kullanım:** .NET Web API + Angular projeleri için Dockerfile ile izole kurulum
+
+---
+
+## ☸️ Kubernetes
+
+Docker konteynerlerini orkestre eden açık kaynak platform.  
+**Yetenekler:**  
+- Otomatik yük dengeleme  
+- Horizontal scaling  
+- Self-healing (çöken pod’ları yeniden başlatma)  
+**Kullanım:** Helm chart ile versiyon kontrollü dağıtım
+
+---
+
 ## 📦 Proje Yapısı
+
+
 
 # Ali Can Yücel - Full Stack Web Developer
 ## Hakkımda
