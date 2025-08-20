@@ -1,3 +1,12 @@
+# 🧠 Event-Driven Clean Architecture with .NET Core, RabbitMQ, Docker & CQRS
+
+Kurumsal seviyede ölçeklenebilir, test edilebilir ve event-driven bir mimari örneği.  
+.NET Core + RabbitMQ + Docker + CQRS + Clean Architecture prensipleriyle hazırlanmıştır.
+
+---
+
+## 📦 Proje Yapısı
+
 # Ali Can Yücel - Full Stack Web Developer
 ## Hakkımda
 Merhaba! Ben Ali Can Yücel.Selçuk Üniveristesi Bilgisayar Mühendisliği Bölümünden Mavi Diploma İle Mezunum(Gano 3:00/4) Full Stack Developer olarak çeşitli projelerde deneyim kazandım ve birçok teknolojiye hakimim. Kod yazmayı, yeni şeyler öğrenmeyi ve projelerimi paylaşmayı seviyorum.
