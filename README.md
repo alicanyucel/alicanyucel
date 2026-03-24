@@ -33,7 +33,7 @@ I specialize in building **scalable architectures** and mentoring developers to 
 
 ## 📬 Connect With Me
 - 🌐 [Website](https://alicanyucel.com.tr)  
-- 💼 [LinkedIn](https://linkedin.com/in/alicanyucel)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ali-can-y%C3%BCcel-062b6517a/)  
 - 🐙 [GitHub](https://github.com/alicanyucel)  
 - 📧 yucelalicandan@hotmail.com  
 
