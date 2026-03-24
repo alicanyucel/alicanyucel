@@ -35,6 +35,8 @@ I specialize in building **scalable architectures** and mentoring developers to 
 - 🔥 **1400+ commits**  
 - 🌍 **500+ full stack projects** (web & mobile)  
 - 📈 Increased delivery speed by **30%** through optimized team performance metrics  
+- 🎖️ Committers.top Ranking:  
+  [![committers.top badge](https://user-badge.committers.top/turkey/alicanyucel.svg)](https://user-badge.committers.top/turkey/alicanyucel)  
 
 ---
 
@@ -44,5 +46,6 @@ I specialize in building **scalable architectures** and mentoring developers to 
 - 🐙 [GitHub](https://github.com/alicanyucel)  
 - 📧 yucelalicandan@hotmail.com  
 
+---
 
 ⭐️ *“Building resilient systems, empowering teams, and contributing to the developer ecosystem.”*  
