@@ -44,6 +44,5 @@ I specialize in building **scalable architectures** and mentoring developers to 
 - 🐙 [GitHub](https://github.com/alicanyucel)  
 - 📧 yucelalicandan@hotmail.com  
 
----
 
 ⭐️ *“Building resilient systems, empowering teams, and contributing to the developer ecosystem.”*  
