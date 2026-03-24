@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Ali Can Yücel  
 
+[![committers.top badge](https://user-badge.committers.top/turkey/alicanyucel.svg)](https://user-badge.committers.top/turkey/alicanyucel)  
+
 🚀 **Engineering Team Lead | Solution Architect | Top 0.01% GitHub Developer in Turkey**  
+🏆 Ranked **#84 out of 125,000 developers in Turkey** on committers.top  
 
 With 8+ years of professional experience, I’ve delivered **630+ projects** and led teams of 15–25 engineers.  
 I specialize in building **scalable architectures** and mentoring developers to achieve technical excellence.  
@@ -35,8 +38,6 @@ I specialize in building **scalable architectures** and mentoring developers to 
 - 🔥 **1400+ commits**  
 - 🌍 **500+ full stack projects** (web & mobile)  
 - 📈 Increased delivery speed by **30%** through optimized team performance metrics  
-- 🎖️ Committers.top Ranking:  
-  [![committers.top badge](https://user-badge.committers.top/turkey/alicanyucel.svg)](https://user-badge.committers.top/turkey/alicanyucel)  
 
 ---
 
