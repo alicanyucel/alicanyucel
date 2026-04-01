@@ -10,7 +10,7 @@
 ## 📌 About Me
 - 8+ years of professional experience  
 - Delivered 630+ projects & led teams of 15–25 engineers  
-- Published **19+ NuGet packages** → [NuGet Profile](https://www.nuget.org/profiles/alicanyucel)  
+- Published 21+ NuGet packages** → [NuGet Profile](https://www.nuget.org/profiles/alicanyucel)  
 - Specialized in scalable architectures & mentoring developers  
 
 ---
