@@ -1,3 +1,5 @@
+<img width="797" height="850" alt="image" src="https://github.com/user-attachments/assets/0e63c2e7-4908-46f8-93a9-e325452f121e" />
+
 # 👋 Hi, I'm Ali Can Yücel
 [![committers.top badge](https://committers.top/turkey/alicanyucel.svg)](https://committers.top/turkey)
 
