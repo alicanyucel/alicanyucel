@@ -1,5 +1,6 @@
 Nugget Paketlerim https://www.nuget.org/profiles/alicanyucel
 <img width="797" height="850" alt="image" src="https://github.com/user-attachments/assets/0e63c2e7-4908-46f8-93a9-e325452f121e" />
+<img width="1691" height="904" alt="image" src="https://github.com/user-attachments/assets/ae00fc9e-5e44-42e7-bc4d-b6dfdbdde780" />
 
 # 👋 Hi, I'm Ali Can Yücel
 [![committers.top badge](https://committers.top/turkey/alicanyucel.svg)](https://committers.top/turkey)
