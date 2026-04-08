@@ -1,4 +1,4 @@
-Nugget Paketlerim 26 adet  https://www.nuget.org/profiles/alicanyucel
+Nugget Paketlerim https://www.nuget.org/profiles/alicanyucel
 
 <img width="607" height="836" alt="image" src="https://github.com/user-attachments/assets/77ee69c2-2d99-406a-9314-0337ee2d19b7" />
 
