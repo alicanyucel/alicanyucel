@@ -1,6 +1,7 @@
 Nugget Paketlerim https://www.nuget.org/profiles/alicanyucel
 
-<img width="607" height="836" alt="image" src="https://github.com/user-attachments/assets/77ee69c2-2d99-406a-9314-0337ee2d19b7" />
+<img width="642" height="880" alt="image" src="https://github.com/user-attachments/assets/d3375c53-7b0a-4303-bc1b-03b9d9bc319a" />
+
 
 
 <img width="1691" height="904" alt="image" src="https://github.com/user-attachments/assets/ae00fc9e-5e44-42e7-bc4d-b6dfdbdde780" />
