@@ -6,10 +6,13 @@ Npm Angular,React,Vue paketlerim
 
 https://www.npmjs.com/settings/alicanyucelankara06/packages
 
+
 <img width="1888" height="963" alt="image" src="https://github.com/user-attachments/assets/a9960fdb-708f-417b-8ffc-17f5f0be5cd4" />
 
 
 <img width="1691" height="904" alt="image" src="https://github.com/user-attachments/assets/ae00fc9e-5e44-42e7-bc4d-b6dfdbdde780" />
+
+<img width="672" height="307" alt="image" src="https://github.com/user-attachments/assets/c933816b-9594-4911-bab6-3e4df7274108" />
 
 # 👋 Hi, I'm Ali Can Yücel
 [![committers.top badge](https://committers.top/turkey/alicanyucel.svg)](https://committers.top/turkey)
