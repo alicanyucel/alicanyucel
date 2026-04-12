@@ -54,7 +54,8 @@ https://www.npmjs.com/settings/alicanyucelankara06/packages
 
 ## 🌟 Achievements
 - 🏆 GitRank #82 in Turkey (Top 0.01% among 125,000 developers)  
-- 💻 Published **14+ NuGet packages** under ACY.* namespace  
+- 💻 Published **30 NuGet packages** under ACY.* namespace
+-  💻 Published **7 Npm packages** under ACY.* namespace  
 - 🌍 Built projects used across 81 cities in Turkey  
 - 📈 Increased delivery speed by 30% through optimized team performance metrics  
 
