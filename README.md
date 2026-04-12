@@ -26,7 +26,8 @@ https://www.npmjs.com/settings/alicanyucelankara06/packages
 ## 📌 About Me
 - 8+ years of professional experience  
 - Delivered 630+ projects & led teams of 15–25 engineers  
-- Published 21+ NuGet packages** → [NuGet Profile](https://www.nuget.org/profiles/alicanyucel)  
+- Published 30 NuGet packages** → [NuGet Profile](https://www.nuget.org/profiles/alicanyucel)
+- Published 7 Nnpm packages** → https://www.npmjs.com/~alicanyucelankara06
 - Specialized in scalable architectures & mentoring developers  
 
 ---
