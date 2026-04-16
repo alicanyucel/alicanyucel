@@ -6,7 +6,8 @@ Nugget Paketlerim https://www.nuget.org/profiles/alicanyucel
 
 Npm Angular,React,Vue paketlerim
 
-https://www.npmjs.com/settings/alicanyucelankara06/packages
+<img width="669" height="686" alt="image" src="https://github.com/user-attachments/assets/f04cf696-eaef-4b8b-a7e5-0d59b5bc829c" />
+
 
 
 <img width="1888" height="963" alt="image" src="https://github.com/user-attachments/assets/a9960fdb-708f-417b-8ffc-17f5f0be5cd4" />
