@@ -1,5 +1,7 @@
 
 CLEAN ARCHITECTURE TEMPLATE PAKETİM
+https://www.nuget.org/packages/AliCanYucel.CleanArchitecture.Template
+
 <img width="454" height="909" alt="image" src="https://github.com/user-attachments/assets/eae4955b-d335-47ec-917c-bd9d993dc5a2" />
 
 Nugget Paketlerim https://www.nuget.org/profiles/alicanyucel
