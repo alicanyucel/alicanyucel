@@ -1,3 +1,7 @@
+
+CLEAN ARCHITECTURE TEMPLATE PAKETİM
+<img width="454" height="909" alt="image" src="https://github.com/user-attachments/assets/eae4955b-d335-47ec-917c-bd9d993dc5a2" />
+
 Nugget Paketlerim https://www.nuget.org/profiles/alicanyucel
 
 <img width="604" height="900" alt="image" src="https://github.com/user-attachments/assets/05de9b6a-0911-4252-ad61-cbb3d86a0f70" />
