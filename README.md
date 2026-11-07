@@ -6,7 +6,8 @@ https://www.nuget.org/packages/AliCanYucel.CleanArchitecture.Template
 
 Nugget Paketlerim https://www.nuget.org/profiles/alicanyucel
 
-<img width="1760" height="827" alt="image" src="https://github.com/user-attachments/assets/b5d6a7d7-d2d6-4d9c-a165-eff4b47ae818" />
+<img width="1798" height="936" alt="image" src="https://github.com/user-attachments/assets/90d3d65f-a9b6-41e7-837e-3fcb6e08bc7c" />
+
 
 
 
