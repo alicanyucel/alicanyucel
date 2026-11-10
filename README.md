@@ -14,7 +14,8 @@ Nugget Paketlerim https://www.nuget.org/profiles/alicanyucel
 
 Npm Angular,React,Vue paketlerim
 
-<img width="669" height="686" alt="image" src="https://github.com/user-attachments/assets/f04cf696-eaef-4b8b-a7e5-0d59b5bc829c" />
+<img width="1493" height="838" alt="image" src="https://github.com/user-attachments/assets/1750c42b-8ba6-43c4-9f7b-8084f8a4ab78" />
+
 
 <img width="1691" height="904" alt="image" src="https://github.com/user-attachments/assets/ae00fc9e-5e44-42e7-bc4d-b6dfdbdde780" />
 
