@@ -19,7 +19,8 @@ Npm Angular,React,Vue paketlerim
 
 
 <img width="672" height="307" alt="image" src="https://github.com/user-attachments/assets/c933816b-9594-4911-bab6-3e4df7274108" />
-<img width="3141" height="2268" alt="image" src="https://github.com/user-attachments/assets/8dad0e96-8156-471b-be81-d736793bbcd6" />
+<img width="2102" height="2268" alt="image" src="https://github.com/user-attachments/assets/71d56329-e95b-46d9-ae43-abb35e9960d3" />
+
 
 # 👋 Hi, I'm Ali Can Yücel
 [![committers.top badge](https://committers.top/turkey/alicanyucel.svg)](https://committers.top/turkey)
