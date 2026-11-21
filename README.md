@@ -11,7 +11,42 @@ Nugget Paketlerim https://www.nuget.org/profiles/alicanyucel
 
 
 
+# 👋 Merhaba, Ben Ali Can Yücel
 
+🚀 Full Stack Software Engineer  
+💻 .NET • Angular • React • Azure  
+🤖 AI • Ollama • Vector Database • RAG  
+☁️ Docker • Kubernetes • Microservices
+
+## 📈 GitHub İstatistikleri
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alicanyucel&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alicanyucel&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=alicanyucel&theme=tokyonight)
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=alicanyucel&theme=tokyonight&row=2&column=4)
+
+## 🚀 Open Source
+
+- 📂 661+ Public Repository
+- 📦 45+ NuGet & NPM Package
+- 🏥 TeleTip AI Platform
+- 🤖 Ollama Projects
+- 🧠 Vector Database Projects
+- ☁️ Azure Cloud Solutions
+- 📱 Mobile & Smart Watch Applications
+
+## 🌐 Links
+
+- Website: https://alicanyucel.com.tr
+- GitHub: https://github.com/alicanyucel
+- LinkedIn: https://linkedin.com/in/ali-can-yücel
+
+⭐ If you like my projects, don't forget to star them.
 Npm Angular,React,Vue paketlerim
 
 <img width="1493" height="838" alt="image" src="https://github.com/user-attachments/assets/1750c42b-8ba6-43c4-9f7b-8084f8a4ab78" />
